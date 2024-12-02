@@ -5,4 +5,4 @@ Hello World! This is my page.
 ## Heading 2
 
 
-This is a link to my EC project.
+This is a link to my [EC project.](ecproject.html)
