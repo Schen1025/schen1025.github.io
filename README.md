@@ -35,7 +35,7 @@
             text-align: center;
         }
         h2 {
-            color: #0077b6;
+            color: #333;
             font-size: 1.8rem;
         }
         p, a {
@@ -45,7 +45,7 @@
             text-decoration: none;
         }
         a:hover {
-            color: #0077b6;
+            color: #333;
             text-decoration: underline;
         }
         .link-list {
