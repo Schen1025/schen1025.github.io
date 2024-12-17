@@ -85,6 +85,11 @@
         </div>
 
         <h2>Forward Looking Statement</h2>
+        <p>As the semester wraps up, I was to think ahead of how I could use the skills I learned in this course and incorporate them with what I am interested in. Personally, I am interested in blockchain technology and have been following the space closely for the past 5 years. A recent trend the industry is shifting towards is making decentralized AI agents. It is often done through LLMs but customized based on personal needs.</p>
+
+        <p>Combining what I learned in this class, I want to think more about my digital footprint in the future. I plan to explore the option of creating an AI agent that talks and thinks similar to me. This sounds extremely hard, especially as I have limited coding experience. But there are actually a lot of open resources on GitHub that I found where the process is being simplified and taught step by step. (Eliza on GitHub)</p>
+
+        <p>This will be an extremely long project, likely spanning over decades, but I&rsquo;m really interested in seeing where this takes me.</p>
     </div>
 
     <footer>
