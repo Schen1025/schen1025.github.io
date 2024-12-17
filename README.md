@@ -75,7 +75,7 @@
     <div class="container">
         <h2>ENGL-1650 Portfolio</h2>
         <p><strong>by Schen</strong></p>
-        <p>Please read <u><a href="statement.html">my statement</a><u> before exploring other parts of the website. Thank you!</p>
+        <p>Please read <u><a href="statement.html">my statement</a> <u> before exploring other parts of the website. Thank you!</p>
 
         <div class="link-list">
             <p>This is a link to my <a href="ecproject.html">EC project</a></p>
