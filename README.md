@@ -57,6 +57,9 @@
             margin: 0.5rem 0;
             color: #0096c7;
         }
+        .highlight {
+            text-decoration: underline !important;
+        }
         footer {
             text-align: center;
             padding: 1rem 0;
