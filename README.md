@@ -4,6 +4,7 @@ Hello vistor welcome to my page! Please explore how you like and enjoy your time
 
 ## by Schen
 
+Please read [my statement](statement.html) before exploring other parts of the website. Thank you!
 
 This is a link to my [EC project.](ecproject.html)
 
