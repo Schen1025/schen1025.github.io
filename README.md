@@ -9,3 +9,7 @@ Please read [my statement](statement.html) before exploring other parts of the w
 This is a link to my [EC project.](ecproject.html)
 
 This is a link to my [Printing in Prison Project.](https://printinginprisons.org/blog/cheny/)
+
+This is a link to my [Penn Workshop.](pennw.html)
+
+This is a link to my [Philadelphia project.](phillyw.html)
