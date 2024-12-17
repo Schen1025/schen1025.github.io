@@ -78,10 +78,10 @@
         <p>Please read <a href="statement.html">my statement</a> before exploring other parts of the website. Thank you!</p>
 
         <div class="link-list">
-            <p>This is a link to my <a href="ecproject.html">EC project</a>.</p>
-            <p>This is a link to my <a href="https://printinginprisons.org/blog/cheny/">Printing in Prison Project</a>.</p>
-            <p>This is a link to my <a href="pennw.html">Penn Workshop</a>.</p>
-            <p>This is a link to my <a href="phillyw.html">Philadelphia Project</a>.</p>
+            <p>This is a link to my <a href="ecproject.html">EC project</a></p>
+            <p>This is a link to my <a href="https://printinginprisons.org/blog/cheny/">Printing in Prison Project</a></p>
+            <p>This is a link to my <a href="pennw.html">Penn Workshop</a></p>
+            <p>This is a link to my <a href="phillyw.html">Philadelphia Project</a></p>
         </div>
 
         <h2>Forward Looking Statement</h2>
