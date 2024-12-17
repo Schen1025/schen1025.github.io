@@ -1,8 +1,8 @@
-Hello World! This is my page.
+Hello vistor welcome to my page! Please explore how you like and enjoy your time here!
 
-# Heading 1
+# ENGL-1650 Portfolio
 
-## Heading 2
+## by Schen
 
 
 This is a link to my [EC project.](ecproject.html)
